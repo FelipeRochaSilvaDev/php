@@ -1,0 +1,1 @@
+variaveis são lugares para amarzenamento de dados na memoria do servidor temporariamente
