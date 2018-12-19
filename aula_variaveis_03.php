@@ -2,7 +2,7 @@
 
 $nome  =  "2UTecnologia";
 $site  =  'wwww.tecnologia2u.com.br';
-$ano   = 1990;
+$ano   = 2000;
 $salario = 15000.99;
 $bloqueado = false;
 ///////////////////////////////////////
