@@ -5,10 +5,10 @@ function teste(){
 	global $nome;
 	echo $nome;
 }
-function teste2(){
+function teste1(){
 	$nome = "Felipe";
-	echo $nome."agora no teste2";
+	echo $nome."agora no teste1";
 }
 teste();
-teste2();
+teste1();
 ?>
