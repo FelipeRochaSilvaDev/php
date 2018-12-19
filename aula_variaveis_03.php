@@ -16,7 +16,7 @@ $nascimento = new datetime();
 
 /////////////////////////////////////////
 
-$arquivo = fopen("aula_variaveis_03.php", "r");
+$arquivo = fopen("aula_variaveis_03.php", "r"); //resource
 // var_dump($arquivo);
 $nulo = NULL;//nulo é a aunsencia de valor, vazio ele foi iniciado e ja esta reservada na memoria
 

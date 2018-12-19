@@ -1,3 +1,5 @@
 ﻿variaveis são lugares para amarzenamento de dados na memoria do servidor temporariamente!!
 phpdoc.org site para exemplos de formatção de variavies php
 existe algumas variaveis prédefinidas não devem ser usadas em nome
+toda informção que vier por GET ou POST será string, mesmo que seja numero
+abrir parenteses antes do GET ou POST e colocar um tipo de variavel converte o tipo da mesma
