@@ -1,1 +1,3 @@
-variaveis são lugares para amarzenamento de dados na memoria do servidor temporariamente!!
+﻿variaveis são lugares para amarzenamento de dados na memoria do servidor temporariamente!!
+phpdoc.org site para exemplos de formatção de variavies php
+existe algumas variaveis prédefinidas não devem ser usadas em nome
