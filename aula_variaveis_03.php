@@ -6,7 +6,7 @@ $ano   = 2000;
 $salario = 15000.99;
 $bloqueado = false;
 ///////////////////////////////////////
-$frutas = array("abacaxi", "laranja", "manga");
+$frutas = array("abacaxi", "banana", "manga");
 
 //echo $frutas[2];
 
