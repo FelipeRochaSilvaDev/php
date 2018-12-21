@@ -4,3 +4,5 @@ existe algumas variaveis prédefinidas não devem ser usadas em nome
 toda informção que vier por GET ou POST será string, mesmo que seja numero
 abrir parenteses antes do GET ou POST e colocar um tipo de variavel converte o tipo da mesma
 http://php.net/manual/pt_BR/language.operators.php link para documentação de operadores
+step="0.01"
+http://php.net/manual/pt_BR/ref.strings.php
